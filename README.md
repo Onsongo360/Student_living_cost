@@ -1,1 +1,2 @@
-This project's objective is to advise the Office of Graduate Education(OGE) on the need for increased student stipends based on analysis and inferences made from data collected through a survey. The survey foccused on some key features that could help average students' cost of living
+This project's objective is to advise the Office of Graduate Education(OGE) on the need for increased student stipends based on analysis and inferences made from data collected through a survey. 
+The survey foccused on some key features that could help average students' cost of living.
